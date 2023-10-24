@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkrsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="harshkrsingh05" /> </p>
 
-- 🌱 I’m currently learning **node.JS,Express.JS**
+- 🌱 I’m currently learning **PWA,ReactJS,node.JS,Express.JS**
 
 - 👨‍💻 All of my projects are available at [harshkportfolio.onrender.com](https://harshkportfolio.onrender.com/)
 
