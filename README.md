@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkrsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="harshkrsingh05" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkrsingh05" alt="harshkrsingh05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkrsingh05" theme=dracula alt="harshkrsingh05" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **NextJS,Gsap.**
