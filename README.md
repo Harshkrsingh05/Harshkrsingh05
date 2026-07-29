@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A FullStack developer from India.</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harshkrsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="harshkrsingh05" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkrsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="harshkrsingh05" /> </p>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkrsingh05" theme=dracula alt="harshkrsingh05" /></a> </p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkrsingh05&theme=onedark" alt="harshkrsingh05" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning **NextJS,Gsap.**
-
-- 👨‍💻 All of my projects are available at [harshkportfolio.onrender.com](https://harshkportfolio.onrender.com/)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **harshkumarsingh005@gmail.com**
-
-- ⚡ Fun fact **I am always ready to meet.**
-
+<p align="center">
+  <img src="./assets/banner_light_animated.svg#gh-light-mode-only" width="100%" alt="Light Banner" />
+  <img src="./assets/banner_dark_animated.svg#gh-dark-mode-only" width="100%" alt="Dark Banner" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-kumar-singh-681419252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-kumar-singh-681419252/" height="30" width="40" /></a>
